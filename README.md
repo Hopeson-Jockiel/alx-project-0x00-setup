@@ -27,6 +27,12 @@ to the `pages/` directory.
 - `/landing` → Landing page (`pages/landing.tsx`)
 - `/about` → About page (`pages/about.tsx`)
 
+## Using Components
+
+The Card component was reused multiple times on the landing page to
+demonstrate component reusability in a Next.js application.
+
+
 ## Rendering Components
 
 Reusable UI components were created in the `components` directory.
