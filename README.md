@@ -39,3 +39,8 @@ Reusable UI components were created in the `components` directory.
 These components are not yet rendered on any page and will be used
 in subsequent tasks.
 
+## Typing Components with Props
+
+TypeScript interfaces were used to define component props.
+The Pill component now accepts a dynamic title prop for reuse.
+
