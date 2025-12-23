@@ -27,3 +27,9 @@ to the `pages/` directory.
 - `/landing` → Landing page (`pages/landing.tsx`)
 - `/about` → About page (`pages/about.tsx`)
 
+## Rendering Components
+
+Reusable UI components were created in the `components` directory.
+These components are not yet rendered on any page and will be used
+in subsequent tasks.
+
